@@ -1,0 +1,114 @@
+{
+  "main": {
+    "name": "Sailesh Prasad R S",
+    "occupation": "Fresher",
+    "description": "I am a Python Developer",
+    "image": "Baymax.jpg",
+    "bio": "Hi there! I am Sailesh! You might also know me as Developer. I've been coding for over 2 years now. As a Python developer I've worked both with startups and large corporations to help build & scale their companies in Github. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "contactmessage": "Get in touch with me!",
+    "email": "sankarsailesh001@gmail.com",
+    "phone": "+91 8012223300",
+    "address": {
+      "street": "3/377, Rasi Nagar, Neduvakottai,",
+      "city": "Mannargudi, Thiruvarur,",
+      "state": "Tamilnadu",
+      "zip": "614 014"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://drive.google.com/file/d/1w-Ff44_rKFS7dtTFyvchjyolavgu7c43/view?usp=drivesdk",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sailesh-prasad-7-",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sailesh_prasad_7",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sailesh-prasad",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Anjalai Ammal Mahalingam Engineering College",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "April 2025",
+        "description": "Graduated with First Class"
+      }
+    ],
+    "work": [
+      {
+        "company": "Fresher",
+        "titl": "Founder and CEO",
+        "years": "April 2025 - Present",
+        "description": "Working hard to place myself in my dream company, The company name is not mentioned because wishes cannot be shared before they happen!"
+      }
+    ],
+    "skills": [
+
+      {
+        "name": "Python",
+        "level": "100%"
+      },
+      {
+        "name": "C",
+        "level": "85%"
+      },
+      {
+        "name": "Java",
+        "level": "85%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "95%"
+      },
+      {
+        "name": "Web Development",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Jovian (Data Analysis with Python)",
+        "category": "",
+        "image": "jovian.jpg",
+        "url": "https://jovian.com/certificate/MFQTOOBRGY"
+      },
+      {
+        "title": "FreeCodeCamp (Responsive Web Design)",
+        "category": "",
+        "image": "fcc.jpg",
+        "url": "https://www.freecodecamp.org/certification/sailesh_prasad/responsive-web-design"
+      },
+      {
+        "title": "Guvi (JavaScript)",
+        "category": "",
+        "image": "guvi.jpg",
+        "url": "https://www.guvi.in/verify-certificate?id=j67526w5z1OS9v8626&course=javascriptTa"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sailesh is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Sai Krishnan T S"
+      },
+      {
+        "text": "Learning with Sailesh has been AWESOME, he makes learning Python so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Srinivas R"
+      }
+    ]
+  }
+}
